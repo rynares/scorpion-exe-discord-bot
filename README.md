@@ -53,6 +53,7 @@ node index.js
 
 ## ⚠️ Mutlak Kural
 
+Bu botun hiç bir türlü satışı yapılamaz ve Botun Kullanımından kendiniz sorumlusunuz Rynares Development sorumlu değildir.
 Bu sistem yalnızca sana aittir. Config içerisine yazdığın `ownerId` dışındaki hiç kimse bu komutlara erişemez. 
 Sistemin çalışabilmesi için botun **Yönetici** yetkisine sahip olması ve rolünün en üstte olması gerekir.
 
